@@ -1,2 +1,12 @@
-# DSA_MoundsDataStructure
-Implementation of the multiple functionalities of Mounds Data Structure introduced by Mounds data structure and its functionalities by Yujie Liu and Michael Sear, Lehigh University as a part of Data Structures and Algorithm (CS F211) , BITS Pilani
+# DSA_Assignment_Group_5
+
+- Firstly, navigate to the code folder in DSA_Assignment_5
+
+- To compile the file, run:
+**`gcc DSA_assignment_group_5.c -o group_5 -lm`**
+
+- To execute the file, run:
+**`./group_5 <dataset.txt>`**
+
+For Eg.
+**`./group_5 data.txt`**  (data.txt should be present in same directory)
